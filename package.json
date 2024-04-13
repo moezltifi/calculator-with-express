@@ -1,0 +1,15 @@
+{
+  "name": "calculator1",
+  "version": "1.0.0",
+  "description": "simple calculator website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "moez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
